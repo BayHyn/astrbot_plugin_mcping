@@ -5,18 +5,7 @@
 基于astrbot的查询MineCraft服务器状态并返回图片的插件
 
 ## 📦 安装
-- 安装插件本体
-```bash
-# 克隆仓库到插件目录
-cd /AstrBot/data/plugins
-git clone https://github.com/Zhalslar/astrbot_plugin_mcping
-
-# 控制台重启AstrBot
-```
-- 安装必要依赖：mcstatus，可以直接从astrbot控制台安装（推荐），也可以先进入astrbot的虚拟环境然后运行下面的指令：
- ```bash
-pip install mcstatus
-```
+astrbot插件市场搜索astrbot_plugin_mcping，点击安装，等待完成即可。
 
 ## ⚙️ 配置
  
