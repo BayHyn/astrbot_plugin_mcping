@@ -25,8 +25,10 @@ astrbot插件市场搜索astrbot_plugin_mcping，点击安装，等待完成即�
 ## 📌 特别感谢
 [nonebot-plugin-mcping](https://github.com/skiesworld/nonebot-plugin-mcping): 基于NoneBot的查询MineCraft服务器状态并返回图片的插件
 
-
-
+## 🐔 注意
+- 如果想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
+- 如果觉得本插件还不错，点个star支持一下呗（右上角的星星）
+  
 ## 📜 开源协议
 本项目采用 [GNU AGPLv3](LICENSE)
 
