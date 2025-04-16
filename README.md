@@ -40,8 +40,8 @@ git clone https://github.com/Zhalslar/astrbot_plugin_mcping
 ## 指令
 
 ```bash
-/mcp MC服务器地址
-/mcp gxucraft.cn  - 举例 
+/mcp MC服务器地址  #举例:/mcp gxucraft.cn  
+
 ```
 
 ### 效果图
