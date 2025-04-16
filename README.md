@@ -57,7 +57,7 @@ git clone https://github.com/Zhalslar/astrbot_plugin_mcping
 
 ## 📌 注意事项
 
-- 本插件目前仅测试了napcat协议端，其他协议端可能会存在一些不兼容问题（以具体情况为准）
+- 理论上Java版服务器和基岩版服务器都支持
 - 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
 
 ## 📌 特别感谢
