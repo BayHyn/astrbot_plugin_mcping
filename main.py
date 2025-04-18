@@ -12,7 +12,10 @@ class MCPingPlugin(Star):
         super().__init__(context)
 
     @filter.command("mcp",alias={"mcping","MCP"}, desc="获取 Minecraft JE/BE 服务器 Motd 图片信息")
-    async def on_command(self, event: AstrMessageEvent, server_ip: str = None):
+    async def on_command(self, event: AstrMessageEvent, server_ip: str|None = None):
+        if not server_ip:
+            yield event.plain_result("未提供服务器IP/域名")
+            return
         status_img = (await get_java_server_status(server_ip) or
                       await get_be_server_status(server_ip))
         if status_img:
