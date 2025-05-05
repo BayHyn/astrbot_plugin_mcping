@@ -58,7 +58,7 @@ git clone https://github.com/Zhalslar/astrbot_plugin_mcping
 ## 📌 注意事项
 
 - 理论上Java版服务器和基岩版服务器都支持
-- 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
+- 想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561（不点star不给进）
 
 ## 📌 特别感谢
 
