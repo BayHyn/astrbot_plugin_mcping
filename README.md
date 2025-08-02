@@ -14,10 +14,11 @@ _✨MC服务器状态插件 ✨_
 
 </div>
 
+# 本插件已停止维护，如果使用时报错，建议换用另一个插件：https://github.com/QiChenSn/astrbot_mcgetter
+
 ## 🤝 介绍
 
-~~基于astrbot的查询MineCraft服务器状态并返回图片的插件~~  
-本插件已停止维护，如果使用时报错，建议换用另一个插件：https://github.com/QiChenSn/astrbot_mcgetter
+基于astrbot的查询MineCraft服务器状态并返回图片的插件
 
 ## 📦 安装
 
